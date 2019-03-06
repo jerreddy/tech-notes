@@ -2,7 +2,7 @@
 
 ## JVM
 
-* [Introduction](Introduction.md)
+* [Java](java/README.md)
 * [Maven](maven/README.md)
     * [Tips](maven/tips.md)
 * [SpringBoot](springboot/README.md)
