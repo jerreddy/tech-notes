@@ -1,14 +1,17 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## JVM
 
-* [Java](java/README.md)
-* [Maven](maven/README.md)
-    * [Tips](maven/tips.md)
-* [SpringBoot](springboot/README.md)
-    * [Snippets](springboot/snippets.md)
-    * [Starters](springboot/starters.md)
-    
+* [Java](jvm/java.md)
+* [Maven](jvm/maven/README.md)
+  * [Tips](jvm/maven/tips.md)
+* [SpringBoot](jvm/springboot/README.md)
+  * [Snippets](jvm/springboot/snippets.md)
+  * [Starters](jvm/springboot/starters.md)
+
 ## Linux
 
-* [Bash](bash/README.md)
+* [Bash](linux/bash.md)
+
